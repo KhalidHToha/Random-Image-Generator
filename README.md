@@ -3,6 +3,7 @@
 A beautiful, responsive web app to search and browse images from the Unsplash API.
 
 [VISIT & Check](https://khalidhtoha.github.io/Random-Image-Generator/)
+
 ## ✨ Features
 
 - Search photos by keyword
